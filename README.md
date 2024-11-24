@@ -26,14 +26,14 @@
 - Um aplicativo web para organizar suas tarefas.  
 - Tecnologias: React, TypeScript, CSS Responsivo  
 
-📌 **[Sistema de Gestão de Estoque]([https://github.com/Jmkoygg/Trabalho-FUP-2024.1)**  
+📌 **[Sistema de Gestão de Estoque](https://github.com/Jmkoygg/Trabalho-FUP-2024.1)**  
 - Um projeto acadêmico para controle de produtos utilizando C e arquivos .txt  
 
 ---
 
 ## 💡 Vamos Conectar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joãosoaresdev/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/joãosoaresdev/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)]((https://potifolio-mocha.vercel.app))
 
 ---
 
