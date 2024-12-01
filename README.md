@@ -22,7 +22,7 @@
 ---
 
 ## 🌟 Meus Projetos Favoritos  
-📌 **[Projeto Task List](https://jmkoygg.github.io/RID182828_Desafio03/)**  
+📌 **[Projeto Task List](https://jmkoygg.github.io/Task-list/)**  
 - Um aplicativo web para organizar suas tarefas.  
 - Tecnologias: React, TypeScript, CSS Responsivo  
 
